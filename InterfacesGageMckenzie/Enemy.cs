@@ -20,28 +20,20 @@ namespace InterfacesGageMckenzie
         public enum MovementType
         {
             Idle,
-            running,
-            walking,
-            attackng,
-            jumping,
+            Passive,
+            agrvsive,
             random
         };
         public MovementType _movementType;
         public void Move()
         {
-            if (_movementType == MovementType.attackng)
+            
+            
+             if (_movementType == MovementType.Passive)
             {
 
             }
-            else if(_movementType == MovementType.walking)
-            {
-
-            }
-            else if (_movementType == MovementType.running)
-            {
-
-            }
-            else if (_movementType == MovementType.jumping)
+            else if (_movementType == MovementType.agrvsive)
             {
 
             }
