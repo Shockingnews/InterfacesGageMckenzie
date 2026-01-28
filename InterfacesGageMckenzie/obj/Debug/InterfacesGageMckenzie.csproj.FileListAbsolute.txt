@@ -1,0 +1,8 @@
+C:\Users\w0526843\semster2\InterfacesGageMckenzie\InterfacesGageMckenzie\bin\Debug\InterfacesGageMckenzie.exe.config
+C:\Users\w0526843\semster2\InterfacesGageMckenzie\InterfacesGageMckenzie\bin\Debug\InterfacesGageMckenzie.exe
+C:\Users\w0526843\semster2\InterfacesGageMckenzie\InterfacesGageMckenzie\bin\Debug\InterfacesGageMckenzie.pdb
+C:\Users\w0526843\semster2\InterfacesGageMckenzie\InterfacesGageMckenzie\obj\Debug\InterfacesGageMckenzie.csproj.AssemblyReference.cache
+C:\Users\w0526843\semster2\InterfacesGageMckenzie\InterfacesGageMckenzie\obj\Debug\InterfacesGageMckenzie.csproj.CoreCompileInputs.cache
+C:\Users\w0526843\semster2\InterfacesGageMckenzie\InterfacesGageMckenzie\obj\Debug\InterfacesGageMckenzie.exe
+C:\Users\w0526843\semster2\InterfacesGageMckenzie\InterfacesGageMckenzie\obj\Debug\InterfacesGageMckenzie.pdb
+C:\Users\w0526843\semster2\InterfacesGageMckenzie\InterfacesGageMckenzie\obj\Debug\InterfacesGageMckenzie.exe.config

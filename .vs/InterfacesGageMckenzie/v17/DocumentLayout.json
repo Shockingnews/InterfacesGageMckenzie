@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\w0526843\\semster2\\InterfacesGageMckenzie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|C:\\Users\\w0526843\\semster2\\InterfacesGageMckenzie\\interfacesgagemckenzie\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|c:\\users\\w0526843\\semster2\\interfacesgagemckenzie\\interfacesgagemckenzie\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|c:\\users\\w0526843\\semster2\\interfacesgagemckenzie\\interfacesgagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|C:\\Users\\w0526843\\semster2\\InterfacesGageMckenzie\\interfacesgagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "InterfacesGageMckenzie\\Enemy.cs",
               "ToolTip": "C:\\Users\\w0526843\\semster2\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\Enemy.cs",
               "RelativeToolTip": "InterfacesGageMckenzie\\Enemy.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T20:51:12.338Z",
               "EditorCaption": ""
@@ -65,7 +65,7 @@
               "RelativeDocumentMoniker": "InterfacesGageMckenzie\\Player.cs",
               "ToolTip": "C:\\Users\\w0526843\\semster2\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\Player.cs",
               "RelativeToolTip": "InterfacesGageMckenzie\\Player.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T20:33:39.534Z",
               "EditorCaption": ""
@@ -78,7 +78,7 @@
               "RelativeDocumentMoniker": "InterfacesGageMckenzie\\Program.cs",
               "ToolTip": "C:\\Users\\w0526843\\semster2\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\Program.cs",
               "RelativeToolTip": "InterfacesGageMckenzie\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T20:15:56.52Z",
               "EditorCaption": ""

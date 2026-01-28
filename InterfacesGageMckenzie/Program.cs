@@ -12,22 +12,32 @@ namespace InterfacesGageMckenzie
         static void Main(string[] args)
         {
             Enemy enemy = new Enemy(x: 1, y:0, ConsoleColor.Red);
-            ConsoleKeyInfo inputKeys = Console.ReadKey(true);
-            if (inputKeys.Key == ConsoleKey.M)
-            {
-                enemy.Move();
-            }
-            else if (inputKeys.Key == ConsoleKey.I)
-            {
-                enemy._movementType=;
-            }
-            else if (inputKeys.Key == ConsoleKey.O)
+            while (true)
             {
 
-            }
-            else if (inputKeys.Key == ConsoleKey.P)
-            {
 
+                ConsoleKeyInfo inputKeys = Console.ReadKey(true);
+                if (inputKeys.Key == ConsoleKey.M)
+                {
+                    Console.WriteLine("moving");
+                    enemy.Move();
+                }
+                else if (inputKeys.Key == ConsoleKey.I)
+                {
+                    Console.WriteLine("changed to agressive");
+                    enemy.ChangeMovement(inputKeys.KeyChar);
+                    //enemy._movementType=;
+                }
+                else if (inputKeys.Key == ConsoleKey.O)
+                {
+                    Console.WriteLine("changed to Idle");
+                    enemy.ChangeMovement(inputKeys.KeyChar);
+                }
+                else if (inputKeys.Key == ConsoleKey.P)
+                {
+                    Console.WriteLine("changed to passive");
+                    enemy.ChangeMovement(inputKeys.KeyChar);
+                }
             }
         }
     }
