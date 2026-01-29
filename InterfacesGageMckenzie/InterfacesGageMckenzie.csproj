@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AggressiveMoveStrategy.cs" />
     <Compile Include="Enemy.cs" />
+    <Compile Include="IdleMoveStrategy.cs" />
     <Compile Include="IMovementStrategy.cs" />
+    <Compile Include="PassiveMoveStrategy.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
