@@ -9,13 +9,13 @@ namespace InterfacesGageMckenzie
     internal class PassiveMoveStrategy : IMovementStrategy
     {
 
-        public Positon Move(Positon positon)
+        public Positon Move(Positon positon, Positon targetPos)
         {
-            if (positon.x < 0)
+            if (positon.x == targetPos.x || positon.x != targetPos.x)
             {
                 positon.x -= 1;
             }
-            if (positon.y < 0)
+            if (positon.y == targetPos.y || positon.y != targetPos.y)
             {
                 positon.y -= 1;
             }

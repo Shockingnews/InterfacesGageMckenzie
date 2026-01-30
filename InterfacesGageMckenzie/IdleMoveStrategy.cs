@@ -8,7 +8,7 @@ namespace InterfacesGageMckenzie
 {
     internal class IdleMoveStrategy : IMovementStrategy
     {
-        public Positon Move(Positon positon)
+        public Positon Move(Positon positon, Positon targetPos)
         {
             Console.SetCursorPosition(positon.x, positon.y);
             Console.BackgroundColor = ConsoleColor.Red;

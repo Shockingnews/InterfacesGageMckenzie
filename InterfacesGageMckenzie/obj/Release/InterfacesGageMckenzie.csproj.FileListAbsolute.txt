@@ -1,0 +1,7 @@
+C:\Users\mgc72\source\repos\InterfacesGageMckenzie\InterfacesGageMckenzie\bin\Release\InterfacesGageMckenzie.exe.config
+C:\Users\mgc72\source\repos\InterfacesGageMckenzie\InterfacesGageMckenzie\bin\Release\InterfacesGageMckenzie.exe
+C:\Users\mgc72\source\repos\InterfacesGageMckenzie\InterfacesGageMckenzie\bin\Release\InterfacesGageMckenzie.pdb
+C:\Users\mgc72\source\repos\InterfacesGageMckenzie\InterfacesGageMckenzie\obj\Release\InterfacesGageMckenzie.csproj.AssemblyReference.cache
+C:\Users\mgc72\source\repos\InterfacesGageMckenzie\InterfacesGageMckenzie\obj\Release\InterfacesGageMckenzie.csproj.CoreCompileInputs.cache
+C:\Users\mgc72\source\repos\InterfacesGageMckenzie\InterfacesGageMckenzie\obj\Release\InterfacesGageMckenzie.exe
+C:\Users\mgc72\source\repos\InterfacesGageMckenzie\InterfacesGageMckenzie\obj\Release\InterfacesGageMckenzie.pdb

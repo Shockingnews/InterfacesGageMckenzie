@@ -8,6 +8,6 @@ namespace InterfacesGageMckenzie
 {
     internal interface IMovementStrategy
     {
-        Positon Move(Positon positon);
+        Positon Move(Positon positon, Positon targetPos);
     }
 }
