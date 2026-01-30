@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\interfacesgagemckenzie\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|c:\\users\\mgc72\\source\\repos\\interfacesgagemckenzie\\interfacesgagemckenzie\\idlemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\idlemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|c:\\users\\mgc72\\source\\repos\\interfacesgagemckenzie\\interfacesgagemckenzie\\aggressivemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\aggressivemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|c:\\users\\mgc72\\source\\repos\\interfacesgagemckenzie\\interfacesgagemckenzie\\passivemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\passivemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|c:\\users\\mgc72\\source\\repos\\interfacesgagemckenzie\\interfacesgagemckenzie\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|c:\\users\\mgc72\\source\\repos\\interfacesgagemckenzie\\interfacesgagemckenzie\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\interfacesgagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\interfacesgagemckenzie\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\interfacesgagemckenzie\\aggressivemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\aggressivemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\interfacesgagemckenzie\\idlemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\idlemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\interfacesgagemckenzie\\passivemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\passivemovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\interfacesgagemckenzie\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\interfacesgagemckenzie\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4838A225-9C77-4AE9-9819-04A20679C413}|InterfacesGageMckenzie\\InterfacesGageMckenzie.csproj|solutionrelative:interfacesgagemckenzie\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,29 +58,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IdleMoveStrategy.cs",
               "DocumentMoniker": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\IdleMoveStrategy.cs",
               "RelativeDocumentMoniker": "InterfacesGageMckenzie\\IdleMoveStrategy.cs",
               "ToolTip": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\IdleMoveStrategy.cs",
               "RelativeToolTip": "InterfacesGageMckenzie\\IdleMoveStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T23:42:39.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T23:42:39.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PassiveMoveStrategy.cs",
               "DocumentMoniker": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\PassiveMoveStrategy.cs",
               "RelativeDocumentMoniker": "InterfacesGageMckenzie\\PassiveMoveStrategy.cs",
               "ToolTip": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\PassiveMoveStrategy.cs",
               "RelativeToolTip": "InterfacesGageMckenzie\\PassiveMoveStrategy.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T23:42:06.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T23:42:06.484Z"
             },
             {
               "$type": "Document",
@@ -90,60 +88,58 @@
               "RelativeDocumentMoniker": "InterfacesGageMckenzie\\AggressiveMoveStrategy.cs",
               "ToolTip": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\AggressiveMoveStrategy.cs",
               "RelativeToolTip": "InterfacesGageMckenzie\\AggressiveMoveStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T23:41:49.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T23:41:49.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IMovementStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\IMovementStrategy.cs",
-              "RelativeDocumentMoniker": "InterfacesGageMckenzie\\IMovementStrategy.cs",
-              "ToolTip": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\IMovementStrategy.cs",
-              "RelativeToolTip": "InterfacesGageMckenzie\\IMovementStrategy.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:11:11.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\Enemy.cs",
               "RelativeDocumentMoniker": "InterfacesGageMckenzie\\Enemy.cs",
               "ToolTip": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\Enemy.cs",
               "RelativeToolTip": "InterfacesGageMckenzie\\Enemy.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAC4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T20:51:12.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T20:51:12.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\Player.cs",
               "RelativeDocumentMoniker": "InterfacesGageMckenzie\\Player.cs",
               "ToolTip": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\Player.cs",
               "RelativeToolTip": "InterfacesGageMckenzie\\Player.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T20:33:39.534Z"
+              "WhenOpened": "2026-01-27T20:33:39.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\Program.cs",
               "RelativeDocumentMoniker": "InterfacesGageMckenzie\\Program.cs",
               "ToolTip": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\Program.cs",
               "RelativeToolTip": "InterfacesGageMckenzie\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T20:15:56.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovementStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\IMovementStrategy.cs",
+              "RelativeDocumentMoniker": "InterfacesGageMckenzie\\IMovementStrategy.cs",
+              "ToolTip": "C:\\Users\\mgc72\\source\\repos\\InterfacesGageMckenzie\\InterfacesGageMckenzie\\IMovementStrategy.cs",
+              "RelativeToolTip": "InterfacesGageMckenzie\\IMovementStrategy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:11:11.341Z"
             }
           ]
         }

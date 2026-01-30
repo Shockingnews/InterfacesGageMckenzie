@@ -18,5 +18,38 @@ namespace InterfacesGageMckenzie
             _playerPos.y = y;
         }
         
+        public void PlayerMove()
+        {
+            ConsoleKeyInfo inputKeys = Console.ReadKey(true);
+            if(inputKeys.Key == ConsoleKey.W)
+            {
+                _playerPos.y -= 1;
+                Console.SetCursorPosition(_playerPos.x, _playerPos.y);
+                Console.BackgroundColor = _color;
+                Console.WriteLine(" ");
+            }
+            else if (inputKeys.Key == ConsoleKey.S)
+            {
+                _playerPos.y += 1;
+                Console.SetCursorPosition(_playerPos.x, _playerPos.y);
+                Console.BackgroundColor = _color;
+                Console.WriteLine(" ");
+            }
+            else if (inputKeys.Key == ConsoleKey.A)
+            {
+                _playerPos.x -= 1;
+                Console.SetCursorPosition(_playerPos.x, _playerPos.y);
+                Console.BackgroundColor = _color;
+                Console.WriteLine(" ");
+            }
+            else if (inputKeys.Key == ConsoleKey.D)
+            {
+                _playerPos.x += 1;
+                Console.SetCursorPosition(_playerPos.x, _playerPos.y);
+                Console.BackgroundColor = _color;
+                Console.WriteLine(" ");
+            }
+            Console.BackgroundColor = ConsoleColor.Black;
+        }
     }
 }

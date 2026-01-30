@@ -10,8 +10,10 @@ namespace InterfacesGageMckenzie
     {
         public Positon Move(Positon positon)
         {
-            positon.x += 1;
-            positon.y += 1;
+            Console.SetCursorPosition(positon.x, positon.y);
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.WriteLine(" ");
+            Console.BackgroundColor = ConsoleColor.Black;
             return positon;
         }
     }
